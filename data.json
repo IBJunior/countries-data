@@ -1,0 +1,2243 @@
+[
+    {
+        "name": "Andorre",
+        "en_name": "Andorra",
+        "code": "AD",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇦🇩"
+    },
+    {
+        "name": "Émirats arabes unis",
+        "en_name": "United Arab Emirates",
+        "code": "AE",
+        "currency_code": "AED",
+        "currency": "AED",
+        "currency_name": "Dirham UAE",
+        "flag": "🇦🇪"
+    },
+    {
+        "name": "Afghanistan",
+        "en_name": "Afghanistan",
+        "code": "AF",
+        "currency_code": "AFN",
+        "currency": "Af",
+        "currency_name": "Afghani",
+        "flag": "🇦🇫"
+    },
+    {
+        "name": "Antigua-et-Barbuda",
+        "en_name": "Antigua and Barbuda",
+        "code": "AG",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇦🇬"
+    },
+    {
+        "name": "Anguilla",
+        "en_name": "Anguilla",
+        "code": "AI",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇦🇮"
+    },
+    {
+        "name": "Albanie",
+        "en_name": "Albania",
+        "code": "AL",
+        "currency_code": "ALL",
+        "currency": "ALL",
+        "currency_name": "Lek",
+        "flag": "🇦🇱"
+    },
+    {
+        "name": "Arménie",
+        "en_name": "Armenia",
+        "code": "AM",
+        "currency_code": "AMD",
+        "currency": "AMD",
+        "currency_name": "Dram Armenien",
+        "flag": "🇦🇲"
+    },
+    {
+        "name": "Angola",
+        "en_name": "Angola",
+        "code": "AO",
+        "currency_code": "AOA",
+        "currency": "Kz",
+        "currency_name": "Kwanza",
+        "flag": "🇦🇴"
+    },
+    {
+        "name": "Argentine",
+        "en_name": "Argentina",
+        "code": "AR",
+        "currency_code": "ARS",
+        "currency": "AR$",
+        "currency_name": "Peso Argentin",
+        "flag": "🇦🇷"
+    },
+    {
+        "name": "Samoa américaines",
+        "en_name": "American Samoa",
+        "code": "AS",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇦🇸"
+    },
+    {
+        "name": "Autriche",
+        "en_name": "Austria",
+        "code": "AT",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇦🇹"
+    },
+    {
+        "name": "Australie",
+        "en_name": "Australia",
+        "code": "AU",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇦🇺"
+    },
+    {
+        "name": "Aruba",
+        "en_name": "Aruba",
+        "code": "AW",
+        "currency_code": "AWG",
+        "currency": "Afl.",
+        "currency_name": "Florin Arubais",
+        "flag": "🇦🇼"
+    },
+    {
+        "name": "Îles Åland",
+        "en_name": "Åland",
+        "code": "AX",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇦🇽"
+    },
+    {
+        "name": "Azerbaïdjan",
+        "en_name": "Azerbaijan",
+        "code": "AZ",
+        "currency_code": "AZN",
+        "currency": "man.",
+        "currency_name": "Manat Azerbaïdjanais",
+        "flag": "🇦🇿"
+    },
+    {
+        "name": "Bosnie-Herzégovine",
+        "en_name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "currency_code": "BAM",
+        "currency": "KM",
+        "currency_name": "Mark Convertible",
+        "flag": "🇧🇦"
+    },
+    {
+        "name": "Barbade",
+        "en_name": "Barbados",
+        "code": "BB",
+        "currency_code": "BBD",
+        "currency": "Bds$",
+        "currency_name": "Dollar Barbadien",
+        "flag": "🇧🇧"
+    },
+    {
+        "name": "Bangladesh",
+        "en_name": "Bangladesh",
+        "code": "BD",
+        "currency_code": "BDT",
+        "currency": "Tk",
+        "currency_name": "Taka",
+        "flag": "🇧🇩"
+    },
+    {
+        "name": "Belgique",
+        "en_name": "Belgium",
+        "code": "BE",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇧🇪"
+    },
+    {
+        "name": "Burkina Faso",
+        "en_name": "Burkina Faso",
+        "code": "BF",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇧🇫"
+    },
+    {
+        "name": "Bulgarie",
+        "en_name": "Bulgaria",
+        "code": "BG",
+        "currency_code": "BGN",
+        "currency": "BGN",
+        "currency_name": "Lev Bulgare",
+        "flag": "🇧🇬"
+    },
+    {
+        "name": "Bahreïn",
+        "en_name": "Bahrain",
+        "code": "BH",
+        "currency_code": "BHD",
+        "currency": "BD",
+        "currency_name": "Dinar Bahraini",
+        "flag": "🇧🇭"
+    },
+    {
+        "name": "Burundi",
+        "en_name": "Burundi",
+        "code": "BI",
+        "currency_code": "BIF",
+        "currency": "FBu",
+        "currency_name": "Franc Burundais",
+        "flag": "🇧🇮"
+    },
+    {
+        "name": "Bénin",
+        "en_name": "Benin",
+        "code": "BJ",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇧🇯"
+    },
+    {
+        "name": "Saint-Barthélémy",
+        "en_name": "Saint Barthélemy",
+        "code": "BL",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇧🇱"
+    },
+    {
+        "name": "Bermudes",
+        "en_name": "Bermuda",
+        "code": "BM",
+        "currency_code": "BMD",
+        "currency": "BD$",
+        "currency_name": "Dollar Bermudien",
+        "flag": "🇧🇲"
+    },
+    {
+        "name": "Brunéi Darussalam",
+        "en_name": "Brunei",
+        "code": "BN",
+        "currency_code": "BND",
+        "currency": "BN$",
+        "currency_name": "Dollar de Brunei",
+        "flag": "🇧🇳"
+    },
+    {
+        "name": "Bolivie",
+        "en_name": "Bolivia",
+        "code": "BO",
+        "currency_code": "BOB",
+        "currency": "Bs",
+        "currency_name": "Boliviano",
+        "flag": "🇧🇴"
+    },
+    {
+        "name": null,
+        "en_name": "Bonaire",
+        "code": "BQ",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇧🇶"
+    },
+    {
+        "name": "Brésil",
+        "en_name": "Brazil",
+        "code": "BR",
+        "currency_code": "BRL",
+        "currency": "R$",
+        "currency_name": "Réal Brésilien",
+        "flag": "🇧🇷"
+    },
+    {
+        "name": "Bahamas",
+        "en_name": "Bahamas",
+        "code": "BS",
+        "currency_code": "BSD",
+        "currency": "B$",
+        "currency_name": "Dollar Bahaméen",
+        "flag": "🇧🇸"
+    },
+    {
+        "name": "Bhoutan",
+        "en_name": "Bhutan",
+        "code": "BT",
+        "currency_code": "BTN",
+        "currency": "Nu.",
+        "currency_name": "Ngultrum",
+        "flag": "🇧🇹"
+    },
+    {
+        "name": "Île Bouvet",
+        "en_name": "Bouvet Island",
+        "code": "BV",
+        "currency_code": "NOK",
+        "currency": "Nkr",
+        "currency_name": "Couronne Norvégienne",
+        "flag": "🇧🇻"
+    },
+    {
+        "name": "Botswana",
+        "en_name": "Botswana",
+        "code": "BW",
+        "currency_code": "BWP",
+        "currency": "BWP",
+        "currency_name": "Pula",
+        "flag": "🇧🇼"
+    },
+    {
+        "name": "Bélarus",
+        "en_name": "Belarus",
+        "code": "BY",
+        "currency_code": "BYN",
+        "currency": "Br",
+        "currency_name": "",
+        "flag": "🇧🇾"
+    },
+    {
+        "name": "Belize",
+        "en_name": "Belize",
+        "code": "BZ",
+        "currency_code": "BZD",
+        "currency": "BZ$",
+        "currency_name": "Dollar de Bélize",
+        "flag": "🇧🇿"
+    },
+    {
+        "name": "Canada",
+        "en_name": "Canada",
+        "code": "CA",
+        "currency_code": "CAD",
+        "currency": "CA$",
+        "currency_name": "Dollar Canadien",
+        "flag": "🇨🇦"
+    },
+    {
+        "name": "Îles Cocos - Keeling",
+        "en_name": "Cocos [Keeling] Islands",
+        "code": "CC",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇨🇨"
+    },
+    {
+        "name": "République démocratique du Congo",
+        "en_name": "Democratic Republic of the Congo",
+        "code": "CD",
+        "currency_code": "CDF",
+        "currency": "CDF",
+        "currency_name": "",
+        "flag": "🇨🇩"
+    },
+    {
+        "name": "République centrafricaine",
+        "en_name": "Central African Republic",
+        "code": "CF",
+        "currency_code": "XAF",
+        "currency": "FCFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇨🇫"
+    },
+    {
+        "name": "Congo-Brazzaville",
+        "en_name": "Republic of the Congo",
+        "code": "CG",
+        "currency_code": "XAF",
+        "currency": "FCFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇨🇬"
+    },
+    {
+        "name": "Suisse",
+        "en_name": "Switzerland",
+        "code": "CH",
+        "currency_code": "CHF",
+        "currency": "CHF",
+        "currency_name": "Franc Suisse",
+        "flag": "🇨🇭"
+    },
+    {
+        "name": "Côte d’Ivoire",
+        "en_name": "Ivory Coast",
+        "code": "CI",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇨🇮"
+    },
+    {
+        "name": "Îles Cook",
+        "en_name": "Cook Islands",
+        "code": "CK",
+        "currency_code": "NZD",
+        "currency": "NZ$",
+        "currency_name": "Dollar Néo-Zélandais",
+        "flag": "🇨🇰"
+    },
+    {
+        "name": "Chili",
+        "en_name": "Chile",
+        "code": "CL",
+        "currency_code": "CLP",
+        "currency": "CL$",
+        "currency_name": "Peso Chilien",
+        "flag": "🇨🇱"
+    },
+    {
+        "name": "Cameroun",
+        "en_name": "Cameroon",
+        "code": "CM",
+        "currency_code": "XAF",
+        "currency": "FCFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇨🇲"
+    },
+    {
+        "name": "Chine",
+        "en_name": "China",
+        "code": "CN",
+        "currency_code": "CNY",
+        "currency": "CN¥",
+        "currency_name": "Yuan Renminbi",
+        "flag": "🇨🇳"
+    },
+    {
+        "name": "Colombie",
+        "en_name": "Colombia",
+        "code": "CO",
+        "currency_code": "COP",
+        "currency": "CO$",
+        "currency_name": "Peso Colombien",
+        "flag": "🇨🇴"
+    },
+    {
+        "name": "Costa Rica",
+        "en_name": "Costa Rica",
+        "code": "CR",
+        "currency_code": "CRC",
+        "currency": "₡",
+        "currency_name": "Colón costaricien",
+        "flag": "🇨🇷"
+    },
+    {
+        "name": "Cuba",
+        "en_name": "Cuba",
+        "code": "CU",
+        "currency_code": "CUP",
+        "currency": "$MN",
+        "currency_name": "Peso Cubain",
+        "flag": "🇨🇺"
+    },
+    {
+        "name": "Cap-Vert",
+        "en_name": "Cape Verde",
+        "code": "CV",
+        "currency_code": "CVE",
+        "currency": "CV$",
+        "currency_name": "Escudo cap-verdien",
+        "flag": "🇨🇻"
+    },
+    {
+        "name": null,
+        "en_name": "Curacao",
+        "code": "CW",
+        "currency_code": "ANG",
+        "currency": "NAƒ",
+        "currency_name": "Florin des Antilles néerlandaises",
+        "flag": "🇨🇼"
+    },
+    {
+        "name": "Île Christmas",
+        "en_name": "Christmas Island",
+        "code": "CX",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇨🇽"
+    },
+    {
+        "name": "Chypre",
+        "en_name": "Cyprus",
+        "code": "CY",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇨🇾"
+    },
+    {
+        "name": "République tchèque",
+        "en_name": "Czechia",
+        "code": "CZ",
+        "currency_code": "CZK",
+        "currency": "Kč",
+        "currency_name": "Couronne Tchèque",
+        "flag": "🇨🇿"
+    },
+    {
+        "name": "Allemagne",
+        "en_name": "Germany",
+        "code": "DE",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇩🇪"
+    },
+    {
+        "name": "Djibouti",
+        "en_name": "Djibouti",
+        "code": "DJ",
+        "currency_code": "DJF",
+        "currency": "Fdj",
+        "currency_name": "Franc Djiboutien",
+        "flag": "🇩🇯"
+    },
+    {
+        "name": "Danemark",
+        "en_name": "Denmark",
+        "code": "DK",
+        "currency_code": "DKK",
+        "currency": "Dkr",
+        "currency_name": "Couronne Danoise",
+        "flag": "🇩🇰"
+    },
+    {
+        "name": "Dominique",
+        "en_name": "Dominica",
+        "code": "DM",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇩🇲"
+    },
+    {
+        "name": "République dominicaine",
+        "en_name": "Dominican Republic",
+        "code": "DO",
+        "currency_code": "DOP",
+        "currency": "RD$",
+        "currency_name": "Peso Dominicain",
+        "flag": "🇩🇴"
+    },
+    {
+        "name": "Algérie",
+        "en_name": "Algeria",
+        "code": "DZ",
+        "currency_code": "DZD",
+        "currency": "DA",
+        "currency_name": "Dinar Algérien",
+        "flag": "🇩🇿"
+    },
+    {
+        "name": "Équateur",
+        "en_name": "Ecuador",
+        "code": "EC",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇪🇨"
+    },
+    {
+        "name": "Estonie",
+        "en_name": "Estonia",
+        "code": "EE",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇪🇪"
+    },
+    {
+        "name": "Égypte",
+        "en_name": "Egypt",
+        "code": "EG",
+        "currency_code": "EGP",
+        "currency": "EGP",
+        "currency_name": "Pound Égyptien",
+        "flag": "🇪🇬"
+    },
+    {
+        "name": "Sahara occidental",
+        "en_name": "Western Sahara",
+        "code": "EH",
+        "currency_code": "MAD",
+        "currency": "MAD",
+        "currency_name": "Dirham Marocain",
+        "flag": "🇪🇭"
+    },
+    {
+        "name": "Érythrée",
+        "en_name": "Eritrea",
+        "code": "ER",
+        "currency_code": "ERN",
+        "currency": "Nfk",
+        "currency_name": "Nakfa",
+        "flag": "🇪🇷"
+    },
+    {
+        "name": "Espagne",
+        "en_name": "Spain",
+        "code": "ES",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇪🇸"
+    },
+    {
+        "name": "Éthiopie",
+        "en_name": "Ethiopia",
+        "code": "ET",
+        "currency_code": "ETB",
+        "currency": "Br",
+        "currency_name": "Birr Éthiopienne",
+        "flag": "🇪🇹"
+    },
+    {
+        "name": "Finlande",
+        "en_name": "Finland",
+        "code": "FI",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇫🇮"
+    },
+    {
+        "name": "Fidji",
+        "en_name": "Fiji",
+        "code": "FJ",
+        "currency_code": "FJD",
+        "currency": "FJ$",
+        "currency_name": "Dollar des Fiji",
+        "flag": "🇫🇯"
+    },
+    {
+        "name": "Îles Malouines",
+        "en_name": "Falkland Islands",
+        "code": "FK",
+        "currency_code": "FKP",
+        "currency": "FK£",
+        "currency_name": "Livre des Îles Malouines",
+        "flag": "🇫🇰"
+    },
+    {
+        "name": "États fédérés de Micronésie",
+        "en_name": "Micronesia",
+        "code": "FM",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇫🇲"
+    },
+    {
+        "name": "Îles Féroé",
+        "en_name": "Faroe Islands",
+        "code": "FO",
+        "currency_code": "DKK",
+        "currency": "Dkr",
+        "currency_name": "Couronne Danoise",
+        "flag": "🇫🇴"
+    },
+    {
+        "name": "France",
+        "en_name": "France",
+        "code": "FR",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇫🇷"
+    },
+    {
+        "name": "Gabon",
+        "en_name": "Gabon",
+        "code": "GA",
+        "currency_code": "XAF",
+        "currency": "FCFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇬🇦"
+    },
+    {
+        "name": "Royaume-Uni",
+        "en_name": "United Kingdom",
+        "code": "GB",
+        "currency_code": "GBP",
+        "currency": "£",
+        "currency_name": "Livre Sterlling",
+        "flag": "🇬🇧"
+    },
+    {
+        "name": "Grenade",
+        "en_name": "Grenada",
+        "code": "GD",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇬🇩"
+    },
+    {
+        "name": "Géorgie",
+        "en_name": "Georgia",
+        "code": "GE",
+        "currency_code": "GEL",
+        "currency": "GEL",
+        "currency_name": "Lari",
+        "flag": "🇬🇪"
+    },
+    {
+        "name": "Guyane française",
+        "en_name": "French Guiana",
+        "code": "GF",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇬🇫"
+    },
+    {
+        "name": "Guernesey",
+        "en_name": "Guernsey",
+        "code": "GG",
+        "currency_code": "GBP",
+        "currency": "£",
+        "currency_name": "Livre Sterlling",
+        "flag": "🇬🇬"
+    },
+    {
+        "name": "Ghana",
+        "en_name": "Ghana",
+        "code": "GH",
+        "currency_code": "GHS",
+        "currency": "GH₵",
+        "currency_name": "Cedi du Ghana",
+        "flag": "🇬🇭"
+    },
+    {
+        "name": "Gibraltar",
+        "en_name": "Gibraltar",
+        "code": "GI",
+        "currency_code": "GIP",
+        "currency": "£",
+        "currency_name": "Pound de Gibraltar",
+        "flag": "🇬🇮"
+    },
+    {
+        "name": "Groenland",
+        "en_name": "Greenland",
+        "code": "GL",
+        "currency_code": "DKK",
+        "currency": "Dkr",
+        "currency_name": "Couronne Danoise",
+        "flag": "🇬🇱"
+    },
+    {
+        "name": "Gambie",
+        "en_name": "Gambia",
+        "code": "GM",
+        "currency_code": "GMD",
+        "currency": "D",
+        "currency_name": "Dalasi",
+        "flag": "🇬🇲"
+    },
+    {
+        "name": "Guinée",
+        "en_name": "Guinea",
+        "code": "GN",
+        "currency_code": "GNF",
+        "currency": "FG",
+        "currency_name": "Franc Guinéen",
+        "flag": "🇬🇳"
+    },
+    {
+        "name": "Guadeloupe",
+        "en_name": "Guadeloupe",
+        "code": "GP",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇬🇵"
+    },
+    {
+        "name": "Guinée équatoriale",
+        "en_name": "Equatorial Guinea",
+        "code": "GQ",
+        "currency_code": "XAF",
+        "currency": "FCFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇬🇶"
+    },
+    {
+        "name": "Grèce",
+        "en_name": "Greece",
+        "code": "GR",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇬🇷"
+    },
+    {
+        "name": "Géorgie du Sud et les îles Sandwich du Sud",
+        "en_name": "South Georgia and the South Sandwich Islands",
+        "code": "GS",
+        "currency_code": "GBP",
+        "currency": "£",
+        "currency_name": "Livre Sterlling",
+        "flag": "🇬🇸"
+    },
+    {
+        "name": "Guatemala",
+        "en_name": "Guatemala",
+        "code": "GT",
+        "currency_code": "GTQ",
+        "currency": "GTQ",
+        "currency_name": "Quetzal",
+        "flag": "🇬🇹"
+    },
+    {
+        "name": "Guam",
+        "en_name": "Guam",
+        "code": "GU",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇬🇺"
+    },
+    {
+        "name": "Guinée-Bissau",
+        "en_name": "Guinea-Bissau",
+        "code": "GW",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇬🇼"
+    },
+    {
+        "name": "Guyana",
+        "en_name": "Guyana",
+        "code": "GY",
+        "currency_code": "GYD",
+        "currency": "GY$",
+        "currency_name": "Dollar guyanien",
+        "flag": "🇬🇾"
+    },
+    {
+        "name": "R.A.S. chinoise de Hong Kong",
+        "en_name": "Hong Kong",
+        "code": "HK",
+        "currency_code": "HKD",
+        "currency": "HK$",
+        "currency_name": "Dollar de Hong Kong",
+        "flag": "🇭🇰"
+    },
+    {
+        "name": "Îles Heard et MacDonald",
+        "en_name": "Heard Island and McDonald Islands",
+        "code": "HM",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇭🇲"
+    },
+    {
+        "name": "Honduras",
+        "en_name": "Honduras",
+        "code": "HN",
+        "currency_code": "HNL",
+        "currency": "HNL",
+        "currency_name": "Lempira",
+        "flag": "🇭🇳"
+    },
+    {
+        "name": "Croatie",
+        "en_name": "Croatia",
+        "code": "HR",
+        "currency_code": "HRK",
+        "currency": "kn",
+        "currency_name": "Kuna",
+        "flag": "🇭🇷"
+    },
+    {
+        "name": "Haïti",
+        "en_name": "Haiti",
+        "code": "HT",
+        "currency_code": "HTG",
+        "currency": "G",
+        "currency_name": "Gourde",
+        "flag": "🇭🇹"
+    },
+    {
+        "name": "Hongrie",
+        "en_name": "Hungary",
+        "code": "HU",
+        "currency_code": "HUF",
+        "currency": "Ft",
+        "currency_name": "Forint",
+        "flag": "🇭🇺"
+    },
+    {
+        "name": "Indonésie",
+        "en_name": "Indonesia",
+        "code": "ID",
+        "currency_code": "IDR",
+        "currency": "Rp",
+        "currency_name": "Roupie Indonésienne",
+        "flag": "🇮🇩"
+    },
+    {
+        "name": "Irlande",
+        "en_name": "Ireland",
+        "code": "IE",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇮🇪"
+    },
+    {
+        "name": "Israël",
+        "en_name": "Israel",
+        "code": "IL",
+        "currency_code": "ILS",
+        "currency": "₪",
+        "currency_name": "Nouveau Sheqel Israélien",
+        "flag": "🇮🇱"
+    },
+    {
+        "name": "Île de Man",
+        "en_name": "Isle of Man",
+        "code": "IM",
+        "currency_code": "GBP",
+        "currency": "£",
+        "currency_name": "Livre Sterlling",
+        "flag": "🇮🇲"
+    },
+    {
+        "name": "Inde",
+        "en_name": "India",
+        "code": "IN",
+        "currency_code": "INR",
+        "currency": "Rs",
+        "currency_name": "Roupie Indienne",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Territoire britannique de l'océan Indien",
+        "en_name": "British Indian Ocean Territory",
+        "code": "IO",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇮🇴"
+    },
+    {
+        "name": "Irak",
+        "en_name": "Iraq",
+        "code": "IQ",
+        "currency_code": "IQD",
+        "currency": "IQD",
+        "currency_name": "Dinar Iraquien",
+        "flag": "🇮🇶"
+    },
+    {
+        "name": "Iran",
+        "en_name": "Iran",
+        "code": "IR",
+        "currency_code": "IRR",
+        "currency": "IRR",
+        "currency_name": "Rial Iranien",
+        "flag": "🇮🇷"
+    },
+    {
+        "name": "Islande",
+        "en_name": "Iceland",
+        "code": "IS",
+        "currency_code": "ISK",
+        "currency": "Ikr",
+        "currency_name": "Couronne Islandaise",
+        "flag": "🇮🇸"
+    },
+    {
+        "name": "Italie",
+        "en_name": "Italy",
+        "code": "IT",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇮🇹"
+    },
+    {
+        "name": "Jersey",
+        "en_name": "Jersey",
+        "code": "JE",
+        "currency_code": "GBP",
+        "currency": "£",
+        "currency_name": "Livre Sterlling",
+        "flag": "🇯🇪"
+    },
+    {
+        "name": "Jamaïque",
+        "en_name": "Jamaica",
+        "code": "JM",
+        "currency_code": "JMD",
+        "currency": "J$",
+        "currency_name": "Dollars Jamaïcain",
+        "flag": "🇯🇲"
+    },
+    {
+        "name": "Jordanie",
+        "en_name": "Jordan",
+        "code": "JO",
+        "currency_code": "JOD",
+        "currency": "JD",
+        "currency_name": "Dinar Jordanien",
+        "flag": "🇯🇴"
+    },
+    {
+        "name": "Japon",
+        "en_name": "Japan",
+        "code": "JP",
+        "currency_code": "JPY",
+        "currency": "¥",
+        "currency_name": "Yen",
+        "flag": "🇯🇵"
+    },
+    {
+        "name": "Kenya",
+        "en_name": "Kenya",
+        "code": "KE",
+        "currency_code": "KES",
+        "currency": "Ksh",
+        "currency_name": "Shilling Kenyan",
+        "flag": "🇰🇪"
+    },
+    {
+        "name": "Kirghizistan",
+        "en_name": "Kyrgyzstan",
+        "code": "KG",
+        "currency_code": "KGS",
+        "currency": "С̲ ",
+        "currency_name": "Som",
+        "flag": "🇰🇬"
+    },
+    {
+        "name": "Cambodge",
+        "en_name": "Cambodia",
+        "code": "KH",
+        "currency_code": "KHR",
+        "currency": "KHR",
+        "currency_name": "Riel",
+        "flag": "🇰🇭"
+    },
+    {
+        "name": "Kiribati",
+        "en_name": "Kiribati",
+        "code": "KI",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇰🇮"
+    },
+    {
+        "name": "Comores",
+        "en_name": "Comoros",
+        "code": "KM",
+        "currency_code": "KMF",
+        "currency": "CF",
+        "currency_name": "Franc Comorien",
+        "flag": "🇰🇲"
+    },
+    {
+        "name": "Saint-Kitts-et-Nevis",
+        "en_name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇰🇳"
+    },
+    {
+        "name": "Corée du Nord",
+        "en_name": "North Korea",
+        "code": "KP",
+        "currency_code": "KPW",
+        "currency": "₩",
+        "currency_name": "Won Nord-coréen",
+        "flag": "🇰🇵"
+    },
+    {
+        "name": "Corée du Sud",
+        "en_name": "South Korea",
+        "code": "KR",
+        "currency_code": "KRW",
+        "currency": "₩",
+        "currency_name": "Won",
+        "flag": "🇰🇷"
+    },
+    {
+        "name": "Koweït",
+        "en_name": "Kuwait",
+        "code": "KW",
+        "currency_code": "KWD",
+        "currency": "KD",
+        "currency_name": "Dinar Koweïtien",
+        "flag": "🇰🇼"
+    },
+    {
+        "name": "Îles Caïmans",
+        "en_name": "Cayman Islands",
+        "code": "KY",
+        "currency_code": "KYD",
+        "currency": "CI$",
+        "currency_name": "Dollar des îles Caïmans",
+        "flag": "🇰🇾"
+    },
+    {
+        "name": "Kazakhstan",
+        "en_name": "Kazakhstan",
+        "code": "KZ",
+        "currency_code": "KZT",
+        "currency": "KZT",
+        "currency_name": "Tenge",
+        "flag": "🇰🇿"
+    },
+    {
+        "name": "Laos",
+        "en_name": "Laos",
+        "code": "LA",
+        "currency_code": "LAK",
+        "currency": "₭N",
+        "currency_name": "Kip",
+        "flag": "🇱🇦"
+    },
+    {
+        "name": "Liban",
+        "en_name": "Lebanon",
+        "code": "LB",
+        "currency_code": "LBP",
+        "currency": "LB£",
+        "currency_name": "Pound Libanais",
+        "flag": "🇱🇧"
+    },
+    {
+        "name": "Sainte-Lucie",
+        "en_name": "Saint Lucia",
+        "code": "LC",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇱🇨"
+    },
+    {
+        "name": "Liechtenstein",
+        "en_name": "Liechtenstein",
+        "code": "LI",
+        "currency_code": "CHF",
+        "currency": "CHF",
+        "currency_name": "Franc Suisse",
+        "flag": "🇱🇮"
+    },
+    {
+        "name": "Sri Lanka",
+        "en_name": "Sri Lanka",
+        "code": "LK",
+        "currency_code": "LKR",
+        "currency": "SLRs",
+        "currency_name": "Roupie Sri Lankais",
+        "flag": "🇱🇰"
+    },
+    {
+        "name": "Libéria",
+        "en_name": "Liberia",
+        "code": "LR",
+        "currency_code": "LRD",
+        "currency": "LD$",
+        "currency_name": "Dollar du Liberia",
+        "flag": "🇱🇷"
+    },
+    {
+        "name": "Lesotho",
+        "en_name": "Lesotho",
+        "code": "LS",
+        "currency_code": "LSL",
+        "currency": "L",
+        "currency_name": "",
+        "flag": "🇱🇸"
+    },
+    {
+        "name": "Lituanie",
+        "en_name": "Lithuania",
+        "code": "LT",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇱🇹"
+    },
+    {
+        "name": "Luxembourg",
+        "en_name": "Luxembourg",
+        "code": "LU",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇱🇺"
+    },
+    {
+        "name": "Lettonie",
+        "en_name": "Latvia",
+        "code": "LV",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇱🇻"
+    },
+    {
+        "name": "Libye",
+        "en_name": "Libya",
+        "code": "LY",
+        "currency_code": "LYD",
+        "currency": "LD",
+        "currency_name": "Dinar Libien",
+        "flag": "🇱🇾"
+    },
+    {
+        "name": "Maroc",
+        "en_name": "Morocco",
+        "code": "MA",
+        "currency_code": "MAD",
+        "currency": "MAD",
+        "currency_name": "Dirham Marocain",
+        "flag": "🇲🇦"
+    },
+    {
+        "name": "Monaco",
+        "en_name": "Monaco",
+        "code": "MC",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇲🇨"
+    },
+    {
+        "name": "Moldavie",
+        "en_name": "Moldova",
+        "code": "MD",
+        "currency_code": "MDL",
+        "currency": "MDL",
+        "currency_name": "Leu Moldavien",
+        "flag": "🇲🇩"
+    },
+    {
+        "name": "Monténégro",
+        "en_name": "Montenegro",
+        "code": "ME",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇲🇪"
+    },
+    {
+        "name": "Saint-Martin",
+        "en_name": "Saint Martin",
+        "code": "MF",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇲🇫"
+    },
+    {
+        "name": "Madagascar",
+        "en_name": "Madagascar",
+        "code": "MG",
+        "currency_code": "MGA",
+        "currency": "MGA",
+        "currency_name": "Ariary Malgache",
+        "flag": "🇲🇬"
+    },
+    {
+        "name": "Îles Marshall",
+        "en_name": "Marshall Islands",
+        "code": "MH",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇲🇭"
+    },
+    {
+        "name": "Macédoine",
+        "en_name": "Macedonia",
+        "code": "MK",
+        "currency_code": "MKD",
+        "currency": "MKD",
+        "currency_name": "Denar",
+        "flag": "🇲🇰"
+    },
+    {
+        "name": "Mali",
+        "en_name": "Mali",
+        "code": "ML",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇲🇱"
+    },
+    {
+        "name": "Myanmar",
+        "en_name": "Myanmar [Burma]",
+        "code": "MM",
+        "currency_code": "MMK",
+        "currency": "MMK",
+        "currency_name": "Kyat",
+        "flag": "🇲🇲"
+    },
+    {
+        "name": "Mongolie",
+        "en_name": "Mongolia",
+        "code": "MN",
+        "currency_code": "MNT",
+        "currency": "₮",
+        "currency_name": "Tugrik",
+        "flag": "🇲🇳"
+    },
+    {
+        "name": "R.A.S. chinoise de Macao",
+        "en_name": "Macao",
+        "code": "MO",
+        "currency_code": "MOP",
+        "currency": "MOP$",
+        "currency_name": "Pataca",
+        "flag": "🇲🇴"
+    },
+    {
+        "name": "Îles Mariannes du Nord",
+        "en_name": "Northern Mariana Islands",
+        "code": "MP",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇲🇵"
+    },
+    {
+        "name": "Martinique",
+        "en_name": "Martinique",
+        "code": "MQ",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇲🇶"
+    },
+    {
+        "name": "Mauritanie",
+        "en_name": "Mauritania",
+        "code": "MR",
+        "currency_code": "MRO",
+        "currency": "",
+        "currency_name": "Ouguiya",
+        "flag": "🇲🇷"
+    },
+    {
+        "name": "Montserrat",
+        "en_name": "Montserrat",
+        "code": "MS",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇲🇸"
+    },
+    {
+        "name": "Malte",
+        "en_name": "Malta",
+        "code": "MT",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇲🇹"
+    },
+    {
+        "name": "Maurice",
+        "en_name": "Mauritius",
+        "code": "MU",
+        "currency_code": "MUR",
+        "currency": "MURs",
+        "currency_name": "Mauritius Roupie",
+        "flag": "🇲🇺"
+    },
+    {
+        "name": "Maldives",
+        "en_name": "Maldives",
+        "code": "MV",
+        "currency_code": "MVR",
+        "currency": "Rf",
+        "currency_name": "Rufiyaa",
+        "flag": "🇲🇻"
+    },
+    {
+        "name": "Malawi",
+        "en_name": "Malawi",
+        "code": "MW",
+        "currency_code": "MWK",
+        "currency": "K",
+        "currency_name": "Kwacha",
+        "flag": "🇲🇼"
+    },
+    {
+        "name": "Mexique",
+        "en_name": "Mexico",
+        "code": "MX",
+        "currency_code": "MXN",
+        "currency": "MX$",
+        "currency_name": "Peso Mexicain",
+        "flag": "🇲🇽"
+    },
+    {
+        "name": "Malaisie",
+        "en_name": "Malaysia",
+        "code": "MY",
+        "currency_code": "MYR",
+        "currency": "RM",
+        "currency_name": "Ringgit Malaisien",
+        "flag": "🇲🇾"
+    },
+    {
+        "name": "Mozambique",
+        "en_name": "Mozambique",
+        "code": "MZ",
+        "currency_code": "MZN",
+        "currency": "MTn",
+        "currency_name": "Metical",
+        "flag": "🇲🇿"
+    },
+    {
+        "name": "Namibie",
+        "en_name": "Namibia",
+        "code": "NA",
+        "currency_code": "NAD",
+        "currency": "N$",
+        "currency_name": "Dollar Namibien",
+        "flag": "🇳🇦"
+    },
+    {
+        "name": "Nouvelle-Calédonie",
+        "en_name": "New Caledonia",
+        "code": "NC",
+        "currency_code": "XPF",
+        "currency": "F",
+        "currency_name": "Franc CFP",
+        "flag": "🇳🇨"
+    },
+    {
+        "name": "Niger",
+        "en_name": "Niger",
+        "code": "NE",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇳🇪"
+    },
+    {
+        "name": "Île Norfolk",
+        "en_name": "Norfolk Island",
+        "code": "NF",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇳🇫"
+    },
+    {
+        "name": "Nigéria",
+        "en_name": "Nigeria",
+        "code": "NG",
+        "currency_code": "NGN",
+        "currency": "₦",
+        "currency_name": "Naira",
+        "flag": "🇳🇬"
+    },
+    {
+        "name": "Nicaragua",
+        "en_name": "Nicaragua",
+        "code": "NI",
+        "currency_code": "NIO",
+        "currency": "C$",
+        "currency_name": "Cordoba",
+        "flag": "🇳🇮"
+    },
+    {
+        "name": "Pays-Bas",
+        "en_name": "Netherlands",
+        "code": "NL",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇳🇱"
+    },
+    {
+        "name": "Norvège",
+        "en_name": "Norway",
+        "code": "NO",
+        "currency_code": "NOK",
+        "currency": "Nkr",
+        "currency_name": "Couronne Norvégienne",
+        "flag": "🇳🇴"
+    },
+    {
+        "name": "Népal",
+        "en_name": "Nepal",
+        "code": "NP",
+        "currency_code": "NPR",
+        "currency": "NPRs",
+        "currency_name": "Roupie Népalais",
+        "flag": "🇳🇵"
+    },
+    {
+        "name": "Nauru",
+        "en_name": "Nauru",
+        "code": "NR",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇳🇷"
+    },
+    {
+        "name": "Niue",
+        "en_name": "Niue",
+        "code": "NU",
+        "currency_code": "NZD",
+        "currency": "NZ$",
+        "currency_name": "Dollar Néo-Zélandais",
+        "flag": "🇳🇺"
+    },
+    {
+        "name": "Nouvelle-Zélande",
+        "en_name": "New Zealand",
+        "code": "NZ",
+        "currency_code": "NZD",
+        "currency": "NZ$",
+        "currency_name": "Dollar Néo-Zélandais",
+        "flag": "🇳🇿"
+    },
+    {
+        "name": "Oman",
+        "en_name": "Oman",
+        "code": "OM",
+        "currency_code": "OMR",
+        "currency": "OMR",
+        "currency_name": "Rial Omani",
+        "flag": "🇴🇲"
+    },
+    {
+        "name": "Panama",
+        "en_name": "Panama",
+        "code": "PA",
+        "currency_code": "PAB",
+        "currency": "B/.",
+        "currency_name": "Balboa",
+        "flag": "🇵🇦"
+    },
+    {
+        "name": "Pérou",
+        "en_name": "Peru",
+        "code": "PE",
+        "currency_code": "PEN",
+        "currency": "S/.",
+        "currency_name": "Nouveau Sol",
+        "flag": "🇵🇪"
+    },
+    {
+        "name": "Polynésie française",
+        "en_name": "French Polynesia",
+        "code": "PF",
+        "currency_code": "XPF",
+        "currency": "F",
+        "currency_name": "Franc CFP",
+        "flag": "🇵🇫"
+    },
+    {
+        "name": "Papouasie-Nouvelle-Guinée",
+        "en_name": "Papua New Guinea",
+        "code": "PG",
+        "currency_code": "PGK",
+        "currency": "K",
+        "currency_name": "Kina",
+        "flag": "🇵🇬"
+    },
+    {
+        "name": "Philippines",
+        "en_name": "Philippines",
+        "code": "PH",
+        "currency_code": "PHP",
+        "currency": "₱",
+        "currency_name": "Peso Phillipins",
+        "flag": "🇵🇭"
+    },
+    {
+        "name": "Pakistan",
+        "en_name": "Pakistan",
+        "code": "PK",
+        "currency_code": "PKR",
+        "currency": "PKRs",
+        "currency_name": "Roupie du Pakistan",
+        "flag": "🇵🇰"
+    },
+    {
+        "name": "Pologne",
+        "en_name": "Poland",
+        "code": "PL",
+        "currency_code": "PLN",
+        "currency": "zł",
+        "currency_name": "Zloty",
+        "flag": "🇵🇱"
+    },
+    {
+        "name": "Saint-Pierre-et-Miquelon",
+        "en_name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇵🇲"
+    },
+    {
+        "name": "Pitcairn",
+        "en_name": "Pitcairn Islands",
+        "code": "PN",
+        "currency_code": "NZD",
+        "currency": "NZ$",
+        "currency_name": "Dollar Néo-Zélandais",
+        "flag": "🇵🇳"
+    },
+    {
+        "name": "Porto Rico",
+        "en_name": "Puerto Rico",
+        "code": "PR",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇵🇷"
+    },
+    {
+        "name": "Territoire palestinien",
+        "en_name": "Palestine",
+        "code": "PS",
+        "currency_code": "ILS",
+        "currency": "₪",
+        "currency_name": "Nouveau Sheqel Israélien",
+        "flag": "🇵🇸"
+    },
+    {
+        "name": "Portugal",
+        "en_name": "Portugal",
+        "code": "PT",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇵🇹"
+    },
+    {
+        "name": "Palaos",
+        "en_name": "Palau",
+        "code": "PW",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇵🇼"
+    },
+    {
+        "name": "Paraguay",
+        "en_name": "Paraguay",
+        "code": "PY",
+        "currency_code": "PYG",
+        "currency": "₲",
+        "currency_name": "Guarani",
+        "flag": "🇵🇾"
+    },
+    {
+        "name": "Qatar",
+        "en_name": "Qatar",
+        "code": "QA",
+        "currency_code": "QAR",
+        "currency": "QR",
+        "currency_name": "Rial Qatari",
+        "flag": "🇶🇦"
+    },
+    {
+        "name": "Réunion",
+        "en_name": "Réunion",
+        "code": "RE",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇷🇪"
+    },
+    {
+        "name": "Roumanie",
+        "en_name": "Romania",
+        "code": "RO",
+        "currency_code": "RON",
+        "currency": "RON",
+        "currency_name": "Leu Roumain",
+        "flag": "🇷🇴"
+    },
+    {
+        "name": "Serbie",
+        "en_name": "Serbia",
+        "code": "RS",
+        "currency_code": "RSD",
+        "currency": "din.",
+        "currency_name": "Dinar Serbe",
+        "flag": "🇷🇸"
+    },
+    {
+        "name": "Russie",
+        "en_name": "Russia",
+        "code": "RU",
+        "currency_code": "RUB",
+        "currency": "RUB",
+        "currency_name": "Rouble Russe",
+        "flag": "🇷🇺"
+    },
+    {
+        "name": "Rwanda",
+        "en_name": "Rwanda",
+        "code": "RW",
+        "currency_code": "RWF",
+        "currency": "RWF",
+        "currency_name": "Franc Rwandais",
+        "flag": "🇷🇼"
+    },
+    {
+        "name": "Arabie saoudite",
+        "en_name": "Saudi Arabia",
+        "code": "SA",
+        "currency_code": "SAR",
+        "currency": "SR",
+        "currency_name": "Riyal Saoudien",
+        "flag": "🇸🇦"
+    },
+    {
+        "name": "Îles Salomon",
+        "en_name": "Solomon Islands",
+        "code": "SB",
+        "currency_code": "SBD",
+        "currency": "SI$",
+        "currency_name": "Dollar des îles Solomon",
+        "flag": "🇸🇧"
+    },
+    {
+        "name": "Seychelles",
+        "en_name": "Seychelles",
+        "code": "SC",
+        "currency_code": "SCR",
+        "currency": "SRe",
+        "currency_name": "Roupie seychelloise",
+        "flag": "🇸🇨"
+    },
+    {
+        "name": "Soudan",
+        "en_name": "Sudan",
+        "code": "SD",
+        "currency_code": "SDG",
+        "currency": "SDG",
+        "currency_name": "Livre Soudanais",
+        "flag": "🇸🇩"
+    },
+    {
+        "name": "Suède",
+        "en_name": "Sweden",
+        "code": "SE",
+        "currency_code": "SEK",
+        "currency": "Skr",
+        "currency_name": "Couronne Suédoise",
+        "flag": "🇸🇪"
+    },
+    {
+        "name": "Singapour",
+        "en_name": "Singapore",
+        "code": "SG",
+        "currency_code": "SGD",
+        "currency": "S$",
+        "currency_name": "Dollar Singaporien",
+        "flag": "🇸🇬"
+    },
+    {
+        "name": "Sainte-Hélène",
+        "en_name": "Saint Helena",
+        "code": "SH",
+        "currency_code": "SHP",
+        "currency": "SH£",
+        "currency_name": "",
+        "flag": "🇸🇭"
+    },
+    {
+        "name": "Slovénie",
+        "en_name": "Slovenia",
+        "code": "SI",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇸🇮"
+    },
+    {
+        "name": "Svalbard et Île Jan Mayen",
+        "en_name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "currency_code": "NOK",
+        "currency": "Nkr",
+        "currency_name": "Couronne Norvégienne",
+        "flag": "🇸🇯"
+    },
+    {
+        "name": "Slovaquie",
+        "en_name": "Slovakia",
+        "code": "SK",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇸🇰"
+    },
+    {
+        "name": "Sierra Leone",
+        "en_name": "Sierra Leone",
+        "code": "SL",
+        "currency_code": "SLL",
+        "currency": "Le",
+        "currency_name": "Leone",
+        "flag": "🇸🇱"
+    },
+    {
+        "name": "Saint-Marin",
+        "en_name": "San Marino",
+        "code": "SM",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇸🇲"
+    },
+    {
+        "name": "Sénégal",
+        "en_name": "Senegal",
+        "code": "SN",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇸🇳"
+    },
+    {
+        "name": "Somalie",
+        "en_name": "Somalia",
+        "code": "SO",
+        "currency_code": "SOS",
+        "currency": "Ssh",
+        "currency_name": "Shilling Somalien",
+        "flag": "🇸🇴"
+    },
+    {
+        "name": "Suriname",
+        "en_name": "Suriname",
+        "code": "SR",
+        "currency_code": "SRD",
+        "currency": "Sr$",
+        "currency_name": "Dollars du Surinam",
+        "flag": "🇸🇷"
+    },
+    {
+        "name": null,
+        "en_name": "South Sudan",
+        "code": "SS",
+        "currency_code": "SSP",
+        "currency": "SS£",
+        "currency_name": "Livre sud-soudanaise",
+        "flag": "🇸🇸"
+    },
+    {
+        "name": "Sao Tomé-et-Principe",
+        "en_name": "São Tomé and Príncipe",
+        "code": "ST",
+        "currency_code": "STD",
+        "currency": "",
+        "currency_name": "Dobra",
+        "flag": "🇸🇹"
+    },
+    {
+        "name": "El Salvador",
+        "en_name": "El Salvador",
+        "code": "SV",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇸🇻"
+    },
+    {
+        "name": null,
+        "en_name": "Sint Maarten",
+        "code": "SX",
+        "currency_code": "ANG",
+        "currency": "NAƒ",
+        "currency_name": "Florin des Antilles néerlandaises",
+        "flag": "🇸🇽"
+    },
+    {
+        "name": "Syrie",
+        "en_name": "Syria",
+        "code": "SY",
+        "currency_code": "SYP",
+        "currency": "SY£",
+        "currency_name": "Pound Syrien",
+        "flag": "🇸🇾"
+    },
+    {
+        "name": "Swaziland",
+        "en_name": "Swaziland",
+        "code": "SZ",
+        "currency_code": "SZL",
+        "currency": "L",
+        "currency_name": "Lilangeni",
+        "flag": "🇸🇿"
+    },
+    {
+        "name": "Îles Turks et Caïques",
+        "en_name": "Turks and Caicos Islands",
+        "code": "TC",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇹🇨"
+    },
+    {
+        "name": "Tchad",
+        "en_name": "Chad",
+        "code": "TD",
+        "currency_code": "XAF",
+        "currency": "FCFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇹🇩"
+    },
+    {
+        "name": "Terres australes françaises",
+        "en_name": "French Southern Territories",
+        "code": "TF",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇹🇫"
+    },
+    {
+        "name": "Togo",
+        "en_name": "Togo",
+        "code": "TG",
+        "currency_code": "XOF",
+        "currency": "CFA",
+        "currency_name": "Franc CFA",
+        "flag": "🇹🇬"
+    },
+    {
+        "name": "Thaïlande",
+        "en_name": "Thailand",
+        "code": "TH",
+        "currency_code": "THB",
+        "currency": "฿",
+        "currency_name": "Baht",
+        "flag": "🇹🇭"
+    },
+    {
+        "name": "Tadjikistan",
+        "en_name": "Tajikistan",
+        "code": "TJ",
+        "currency_code": "TJS",
+        "currency": "SM",
+        "currency_name": "Somoni",
+        "flag": "🇹🇯"
+    },
+    {
+        "name": "Tokelau",
+        "en_name": "Tokelau",
+        "code": "TK",
+        "currency_code": "NZD",
+        "currency": "NZ$",
+        "currency_name": "Dollar Néo-Zélandais",
+        "flag": "🇹🇰"
+    },
+    {
+        "name": "Timor oriental",
+        "en_name": "East Timor",
+        "code": "TL",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇹🇱"
+    },
+    {
+        "name": "Turkménistan",
+        "en_name": "Turkmenistan",
+        "code": "TM",
+        "currency_code": "TMT",
+        "currency": "T",
+        "currency_name": "Manat turkmène",
+        "flag": "🇹🇲"
+    },
+    {
+        "name": "Tunisie",
+        "en_name": "Tunisia",
+        "code": "TN",
+        "currency_code": "TND",
+        "currency": "DT",
+        "currency_name": "Dinar Tunisiens",
+        "flag": "🇹🇳"
+    },
+    {
+        "name": "Tonga",
+        "en_name": "Tonga",
+        "code": "TO",
+        "currency_code": "TOP",
+        "currency": "T$",
+        "currency_name": "Pa’anga",
+        "flag": "🇹🇴"
+    },
+    {
+        "name": "Turquie",
+        "en_name": "Turkey",
+        "code": "TR",
+        "currency_code": "TRY",
+        "currency": "TL",
+        "currency_name": "Livre Turque",
+        "flag": "🇹🇷"
+    },
+    {
+        "name": "Trinité-et-Tobago",
+        "en_name": "Trinidad and Tobago",
+        "code": "TT",
+        "currency_code": "TTD",
+        "currency": "TT$",
+        "currency_name": "Dollars de Trinidad et Tobago",
+        "flag": "🇹🇹"
+    },
+    {
+        "name": "Tuvalu",
+        "en_name": "Tuvalu",
+        "code": "TV",
+        "currency_code": "AUD",
+        "currency": "AU$",
+        "currency_name": "Dollar Australien",
+        "flag": "🇹🇻"
+    },
+    {
+        "name": "Taïwan",
+        "en_name": "Taiwan",
+        "code": "TW",
+        "currency_code": "TWD",
+        "currency": "NT$",
+        "currency_name": "Nouveau dollars Taiwanais",
+        "flag": "🇹🇼"
+    },
+    {
+        "name": "Tanzanie",
+        "en_name": "Tanzania",
+        "code": "TZ",
+        "currency_code": "TZS",
+        "currency": "TSh",
+        "currency_name": "Shilling Tanzanien",
+        "flag": "🇹🇿"
+    },
+    {
+        "name": "Ukraine",
+        "en_name": "Ukraine",
+        "code": "UA",
+        "currency_code": "UAH",
+        "currency": "₴",
+        "currency_name": "Hryvnia",
+        "flag": "🇺🇦"
+    },
+    {
+        "name": "Ouganda",
+        "en_name": "Uganda",
+        "code": "UG",
+        "currency_code": "UGX",
+        "currency": "USh",
+        "currency_name": "Shilling Ougandaisg",
+        "flag": "🇺🇬"
+    },
+    {
+        "name": "Îles Mineures Éloignées des États-Unis",
+        "en_name": "U.S. Minor Outlying Islands",
+        "code": "UM",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇺🇲"
+    },
+    {
+        "name": "États-Unis",
+        "en_name": "United States",
+        "code": "US",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇺🇸"
+    },
+    {
+        "name": "Uruguay",
+        "en_name": "Uruguay",
+        "code": "UY",
+        "currency_code": "UYU",
+        "currency": "$U",
+        "currency_name": "Peso Uruguayen",
+        "flag": "🇺🇾"
+    },
+    {
+        "name": "Ouzbékistan",
+        "en_name": "Uzbekistan",
+        "code": "UZ",
+        "currency_code": "UZS",
+        "currency": "UZS",
+        "currency_name": "Sum d’Oubekistan",
+        "flag": "🇺🇿"
+    },
+    {
+        "name": "État de la Cité du Vatican",
+        "en_name": "Vatican City",
+        "code": "VA",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇻🇦"
+    },
+    {
+        "name": "Saint-Vincent-et-les Grenadines",
+        "en_name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "currency_code": "XCD",
+        "currency": "EC$",
+        "currency_name": "Dollar des Caraïbes orientales",
+        "flag": "🇻🇨"
+    },
+    {
+        "name": "Venezuela",
+        "en_name": "Venezuela",
+        "code": "VE",
+        "currency_code": "VEF",
+        "currency": "Bs.F.",
+        "currency_name": "Bolivar",
+        "flag": "🇻🇪"
+    },
+    {
+        "name": "Îles Vierges britanniques",
+        "en_name": "British Virgin Islands",
+        "code": "VG",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇻🇬"
+    },
+    {
+        "name": "Îles Vierges des États-Unis",
+        "en_name": "U.S. Virgin Islands",
+        "code": "VI",
+        "currency_code": "USD",
+        "currency": "$",
+        "currency_name": "Dollar US",
+        "flag": "🇻🇮"
+    },
+    {
+        "name": "Viêt Nam",
+        "en_name": "Vietnam",
+        "code": "VN",
+        "currency_code": "VND",
+        "currency": "₫",
+        "currency_name": "Dong",
+        "flag": "🇻🇳"
+    },
+    {
+        "name": "Vanuatu",
+        "en_name": "Vanuatu",
+        "code": "VU",
+        "currency_code": "VUV",
+        "currency": "VT",
+        "currency_name": "Vatu",
+        "flag": "🇻🇺"
+    },
+    {
+        "name": "Wallis-et-Futuna",
+        "en_name": "Wallis and Futuna",
+        "code": "WF",
+        "currency_code": "XPF",
+        "currency": "F",
+        "currency_name": "Franc CFP",
+        "flag": "🇼🇫"
+    },
+    {
+        "name": "Samoa",
+        "en_name": "Samoa",
+        "code": "WS",
+        "currency_code": "WST",
+        "currency": "WS$",
+        "currency_name": "Tala",
+        "flag": "🇼🇸"
+    },
+    {
+        "name": null,
+        "en_name": "Kosovo",
+        "code": "XK",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": ""
+    },
+    {
+        "name": "Yémen",
+        "en_name": "Yemen",
+        "code": "YE",
+        "currency_code": "YER",
+        "currency": "YR",
+        "currency_name": "Rial du Yemenl",
+        "flag": "🇾🇪"
+    },
+    {
+        "name": "Mayotte",
+        "en_name": "Mayotte",
+        "code": "YT",
+        "currency_code": "EUR",
+        "currency": "€",
+        "currency_name": "Euro",
+        "flag": "🇾🇹"
+    },
+    {
+        "name": "Afrique du Sud",
+        "en_name": "South Africa",
+        "code": "ZA",
+        "currency_code": "ZAR",
+        "currency": "R",
+        "currency_name": "Rand",
+        "flag": "🇿🇦"
+    },
+    {
+        "name": "Zambie",
+        "en_name": "Zambia",
+        "code": "ZM",
+        "currency_code": "ZMW",
+        "currency": "ZK",
+        "currency_name": "Kwacha Zambien",
+        "flag": "🇿🇲"
+    },
+    {
+        "name": "Zimbabwe",
+        "en_name": "Zimbabwe",
+        "code": "ZW",
+        "currency_code": "ZWL",
+        "currency": "ZWL$",
+        "currency_name": "Dollars du Zimbabwe",
+        "flag": "🇿🇼"
+    }
+]
